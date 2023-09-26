@@ -11,3 +11,4 @@ login v2
 Secret changes in the login v3
 header v1
 Footer v1
+>>>>>>>>> Temporary merge branch 2
