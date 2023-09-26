@@ -1,6 +1,8 @@
 production
 develop
 secret change in the develop
+staging setup
+secret change in staging
 landing v1
 secret change in landing
 login v1a
